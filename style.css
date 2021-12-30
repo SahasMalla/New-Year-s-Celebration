@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(https://media1.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: groove;
+    border-color: cyan;
+}
+
